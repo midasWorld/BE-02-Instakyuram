@@ -1,4 +1,4 @@
-name: hello-cicd
+name: instakyuram-cicd
 
 on:
   push:

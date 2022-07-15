@@ -1,7 +1,7 @@
 <included>
     <timestamp datePattern="yyyy-MM-dd" key="LOG_DATE"/>
 
-    <property name="ROOT_PATH" value="/home/ec2-user/app/instakyuram"/>
+    <property name="ROOT_PATH" value="/home/ec2-user/app/instakyuram/log"/>
     <property name="SUB_PATH_ERROR" value="error"/>
     <property name="SUB_PATH_WARN" value="warn"/>
     <property name="SUB_PATH_DB" value="db"/>
